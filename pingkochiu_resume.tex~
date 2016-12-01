@@ -25,7 +25,7 @@ Github:// \href{https://github.com/pingkoc}{\bf pingkoc} | Linkedin:// \href{htt
 \header{Education}
 \subheader{University of Illinois | B.S. M.S., Computer Science}{Aug 2013 - May 2018}
 \vspace{-1pt}
-\information{Minor in Physics, GPA: 3.87}
+\information{Minor in Physics, GPA: 3.9}
 
 \hfill \\
 
@@ -66,6 +66,7 @@ Github:// \href{https://github.com/pingkoc}{\bf pingkoc} | Linkedin:// \href{htt
 \noindent\begin{minipage}[t]{.46\textwidth}
 \miniheader{Relevant Coursework}
 \miniinformation{Algorithms I, II}
+\miniinformation{Calculus}
 \miniinformation{Computer Architecture}
 \miniinformation{Data Structures}
 \miniinformation{Database Systems}
